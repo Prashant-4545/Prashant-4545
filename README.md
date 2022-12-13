@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack & DSA
 - 💞️ I’m looking to collaborate on OpenSource Projects
 -   2022 Goals: Learn more about web3
--   Fun fact: I love to do public spackimg
+-   
 - 
 
 <!---
